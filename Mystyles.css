@@ -1,0 +1,24 @@
+body,h1,h2,ol,ul,li,h3{
+    margin: 5;
+    padding:5;
+}
+h1{
+    color:rgb(155,175,33);
+}
+h2{
+    color:green;
+}
+nav{
+    background-color:rgb(155,175,33);
+}
+body{
+    background-color: brown;
+    font-family: cursive;
+    font-size: 20px;
+}
+ul{
+    color:yellow;
+}
+ol{
+    color:blueviolet;
+}

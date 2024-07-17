@@ -1,0 +1,6 @@
+body{background-color: red;}
+h1{background-color: green;}
+h2{background-color: blue;}
+p{background-color: rgb(127,136,255);}
+ol{list-style-type: upper-roman;background-color: aqua;}
+ul{list-style-type: circle;background-color: yellow;}
